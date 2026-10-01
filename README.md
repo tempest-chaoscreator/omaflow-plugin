@@ -1,3 +1,15 @@
+# OmaFlow 1.3.0 is no longer maintained
+
+This repository is the old fan2go plugin. Tags `v1.1.0`, `v1.2.0`, and `v1.3.0` stay here.
+
+Omaflow 0.1 is the coolercontrold client. The window and the bar chip are one repository:
+
+https://github.com/tempest-chaoscreator/omaflow
+
+Do not run fan2go while `coolercontrold` is running.
+
+---
+
 # OmaFlow
 
 Fan, pump, and AIO control from the [Omarchy](https://omarchy.org/) bar. Chassis fans through [fan2go](https://github.com/markusressel/fan2go), NVIDIA GPU fans through `nvidia-settings` (off until you enable them), AIO pump / radiator / LCD through [liquidctl](https://github.com/liquidctl/liquidctl). Same modes on both tabs, no separate panel for the pump.
